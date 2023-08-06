@@ -1,0 +1,322 @@
+{
+  "computer": [
+    {
+      "id": 1,
+      "name": "AMD Ryzen 9 7950X Processor",
+      "image": "https://i.ebayimg.com/images/g/RcEAAOSws~5kqDWv/s-l400.png",
+      "price": 69800,
+      "features": [
+        "Base Frequency 4.5GHz",
+        "Maximum Turbo Frequency Up to 5.7GHz",
+        "Cores 16",
+        "Threads 32",
+        "Default TDP 170W",
+        "Supported Technologies AMD EXPO Technology, AMD Ryzen Technologies"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "GIGABYTE Z790 UD AX 13th & 12th Gen ATX Motherboard",
+      "image": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/z790-ud-ax/z790-ud-ax-01-500x500.webp",
+      "price": 31000,
+      "features": [
+        "Chipset Intel Z790 Express Chipset",
+        "Form Factor ATX Form Factor; 30.5cm x 24.4cm",
+        "BIOS 1 x 256 Mbit flash, Use of licensed AMI UEFI BIOS, PnP 1.0a, DMI 2.7, WfM 2.0, SM BIOS 2.7, ACPI 5.0",
+        "Type DDR5",
+        "Slots 4 x DIMM sockets",
+        "Maximum Memory 128GB (32 GB single DIMM capacity)"
+      ],
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "name": "Kingston FURY Beast 16GB 6000MHz DDR5 RGB Desktop RAM",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast-16gb-6000mhz/fury-beast-16gb-6000mhz-04-500x500.webp",
+      "price": 8200,
+      "features": [
+        "Type DDR5",
+        "Capacity 16GB",
+        "Frequency 6000MHz",
+        "Operating voltage 1.35V",
+        "Dimension 133.35 mm x 42.23 mm x 7.11 mm"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "name": "Samsung PM9A1 2TB M.2 PCIe Gen 4.0 NVMe SSD",
+      "image": "https://www.startech.com.bd/image/cache/catalog/ssd/samsung/pm9a1/pm9a1-01-500x500.webp",
+      "price": 17400,
+      "features": [
+        "Capacity 2TB",
+        "Form Factor M.2 2280",
+        "Interface PCIe 4.0 NVMe",
+        "MTBF 1,500,000 hours",
+        "Dimension 1,500,000 hours"
+      ],
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "name": "Colorful iGame GeForce RTX 4080 16GB Vulcan OC-V GDDR6X Graphics Card",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/colorful/igame-geforce-rtx-4080-16gb-vulcan-oc-v/igame-geforce-rtx-4080-16gb-vulcan-oc-v-01-500x500.webp",
+      "price": 54.84,
+      "features": [
+        "Type GDDR6X",
+        "Size 16GB",
+        "Memory Clock 22.4Gbps",
+        "BUS Type 256bit",
+        "CUDA Cores 9728",
+        "Recommended PSU 850W and above"
+      ],
+      "status": false,
+      "rating": 4
+    },
+    {
+      "id": 6,
+      "name": "Corsair iCUE H150i ELITE CAPELLIX XT RGB Liquid CPU Cooler",
+      "image": "https://www.startech.com.bd/image/cache/catalog/cpu-cooler/corsair/icue-h150i-elite-capellix-xt/icue-h150i-elite-capellix-xt-01-500x500.webp",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 7,
+      "name": "Antec HCG 1000 Gold Fully Modular Power Supply",
+      "image": "https://www.startech.com.bd/image/cache/catalog/power-supply/Antec/hcg-100/antec-hcg1000-gold-modular-power-supply-01-500x500.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "name": "Lian Li LANCOOL III RGB Mid-Tower E-ATX Gaming Case",
+      "image": "https://www.startech.com.bd/image/cache/catalog/casing/lian-li/lancool-iii/lancool-iii-rgb-01-500x500.webp",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Lenovo G27q-20 27 QHD 2K IPS Gaming Monitor",
+      "image": "https://www.startech.com.bd/image/cache/catalog/monitor/lenovo/g27q-20/g27q-20-01-500x500.webp",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 10,
+      "name": "Zotac Gaming GeForce RTX 3090 Trinity OC 24GB GDDR6X Graphics Card",
+      "image": "https://www.startech.com.bd/image/cache/catalog/graphics-card/zotac/gaming-rtx-3090-trinity-oc/rtx-3090-trinity-oc-box-500x500.jpg",
+      "price": 189900,
+      "features": [
+        "MPN: ZT-A30900J-10P",
+        "Model: GeForce RTX 3090",
+        "2nd Gen Ray Tracing Cores & 3rd Gen Tensor Cores",
+        "IceStorm 2.0 Advanced Cooling",
+        "Active Fan Control with FREEZE Fan Stop",
+        "NVIDIA NVLink (SLI-ready), VR Ready"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 11,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 14,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 15,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 17,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 18,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 19,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 20,
+      "name": "Haylou RS3",
+      "image": "https://live.staticflickr.com/65535/52953899132_fead48e579_h.jpg",
+      "price": 63.07,
+      "features": [
+        "1.2'' AMOLED HD display",
+        "Support 14 workout modes",
+        "Support all-day heart rate and blood oxygen monitoring",
+        "SONY GPS, accurate positioning of movement trajectory",
+        "5ATM waterproof",
+        "21 days of battery life"
+      ],
+      "status": true,
+      "rating": 5
+    }
+  ]
+}
